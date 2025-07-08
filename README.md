@@ -63,12 +63,10 @@ ccpmbok/
 ├── README.md                  # このファイル
 ├── CLAUDE.md                  # Claude Code用の指示
 ├── .claude/
-│   └── commands/             # カスタムコマンド
-├── docs/
-│   ├── README.md             # テンプレート説明
-│   └── template/             # PMBOKドキュメントテンプレート
-└── src/                      # 管理対象プロジェクト（要作成）
-    └── your-project/         # あなたのプロジェクト
+│   └── commands/              # カスタムコマンド
+├── template/                  # PMBOKドキュメントテンプレート
+└── src/                       # 管理対象プロジェクト
+    └── your-project/          # あなたのプロジェクト
 ```
 
 ## ベストプラクティス
